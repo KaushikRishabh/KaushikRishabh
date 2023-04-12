@@ -46,9 +46,13 @@ A task manager application built with React, Redux, and Firebase. This project f
 📞 Get in touch:
 
 💼 LinkedIn: https://www.linkedin.com/in/rishabh-kaushik-4206531b8/
+
 📧 Email: reachmeatrish@gmail.com
+
 🌐 Personal Website
+
 ✍️ Medium
+
 🔥 I'm actively seeking new opportunities and challenges in frontend development, especially in the React ecosystem. If you believe my experience could benefit your team, feel free to reach out! Let's build amazing things together. 🚀
 
 
