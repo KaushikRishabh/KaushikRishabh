@@ -34,11 +34,17 @@ A task manager application built with React, Redux, and Firebase. This project f
 ## 🌟 Accomplishments
 
 🏆 Winner of Hackathon Name - Implemented a groundbreaking feature in a team of 4, optimizing the web application's performance by 30%.
+
 💼 Successfully mentored and led a team of 5 junior frontend developers, increasing overall productivity by 20%.
+
 📖 Authored a paper on "🏆 Winner of Hackathon Name - Implemented a groundbreaking feature in a team of 4, optimizing the web application's performance by 30%.
+
 📖 Authored a paper on "Image Steganography Using Improved Lsb Method" in Internation Journal For Science And Advance Research In Technology; IJAR22281
+
 📖 Authored a paper on "Reviewing the Methods of Predicting Protein Secondary Structure" in Internation Journal of Computer Applications [https://www.ijcaonline.org/proceedings/nsftice2015/number1/25612-1541]
-📞 Get in touch
+
+📞 Get in touch:
+
 💼 LinkedIn: https://www.linkedin.com/in/rishabh-kaushik-4206531b8/
 📧 Email: reachmeatrish@gmail.com
 🌐 Personal Website
