@@ -51,7 +51,7 @@ A task manager application built with React, Redux, and Firebase. This project f
 
 🌐 Personal Website
 
-✍️ Medium
+✍️ Medium: https://medium.com/@kaushikrishabh
 
 🔥 I'm actively seeking new opportunities and challenges in frontend development, especially in the React ecosystem. If you believe my experience could benefit your team, feel free to reach out! Let's build amazing things together. 🚀
 
