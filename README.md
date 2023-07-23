@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Rishabh Kaushik - A Senior React + Frontend Developer
+# 👋 Hey there! I'm Rishabh Kaushik - A Senior Frontend Developer
 
 I'm a highly experienced frontend developer specializing in React.js with over 5 years of experience. I'm passionate about building highly scalable, maintainable, and performant web applications. I have a strong focus on clean code, best practices, and a knack for turning complex problems into simple, elegant solutions. 🚀
 
