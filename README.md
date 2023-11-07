@@ -19,25 +19,25 @@ I'm a highly experienced frontend developer specializing in React.js with over 5
 
 ## 📚 Featured Projects
 
-### 🔍 [React E-commerce Store](https://github.com/yourusername/react-ecommerce-store)
+### 🔍 [React E-commerce Store]([https://github.com/KaushikRishabh/shoply](https://shoply-lime.vercel.app/))
 An advanced e-commerce store built with React, Redux, and TypeScript. The application showcases best practices in scalable architecture, performance optimization, and state management. Features include authentication, shopping cart functionality, product search, and pagination.
 
-### 🌐 [Real-time Chat Application](https://github.com/yourusername/real-time-chat-app)
-A real-time chat application built using React, TypeScript, and Socket.IO. The application highlights real-time communication, user authentication, and optimized UI/UX for both desktop and mobile devices.
+### 🎥 [YouTube Clone]([https://github.com/KaushikRishabh/youtube-clone-react](https://youtube-clone-react-sandy.vercel.app/))
+A dynamic YouTube clone built with React and styled-components. This project emulates key features of the popular video-sharing website, including a home feed, video search, and viewing capabilities. The clone focuses on creating a user-friendly experience that mirrors the original site with optimized performance and responsive design.
 
-### 📈 [Data Visualization Dashboard](https://github.com/yourusername/data-visualization-dashboard)
-A fully responsive data visualization dashboard built with React, D3.js, and Material-UI. This project demonstrates advanced data manipulation and visualization techniques, as well as dynamic theming and custom chart components.
+### 🐦 [Twitter Clone]([https://github.com/KaushikRishabh/twit-x-clone](https://vercel.com/kaushikrishabh/twit-x-clone))
+A Twitter-like social media application replicated using React and Next.js. The clone captures the essence of Twitter with functionalities such as tweeting, retweets, likes, and a real-time feed. It showcases a sleek user interface, authentication flows, and interactive elements to provide an authentic microblogging platform experience.
+
 
 ### 🎯 [Task Manager App](https://github.com/yourusername/task-manager-app)
 A task manager application built with React, Redux, and Firebase. This project features real-time data synchronization, user authentication, and drag-and-drop functionality to manage tasks efficiently.
 
 ## 🌟 Accomplishments
+🪙 Made an ERC-20 token, and took it to 800MC mcap and never rugged it. As a result, I gained a massive supportive community (contact me if you want to know more). Made some other successful ERC-20 tokens (also never rugged)
 
-🏆 Winner of Hackathon Name - Implemented a groundbreaking feature in a team of 4, optimizing the web application's performance by 30%.
+🏆 Made an image processing mobile app that got over 80k downloads
 
-💼 Successfully mentored and led a team of 5 junior frontend developers, increasing overall productivity by 20%.
-
-📖 Authored a paper on "🏆 Winner of Hackathon Name - Implemented a groundbreaking feature in a team of 4, optimizing the web application's performance by 30%.
+💼 Successfully mentored and led a team of 3 frontend developers, increasing overall productivity by 20% as a Frontend Team Lead.
 
 📖 Authored a paper on "Image Steganography Using Improved Lsb Method" in Internation Journal For Science And Advance Research In Technology; IJAR22281
 
@@ -49,11 +49,9 @@ A task manager application built with React, Redux, and Firebase. This project f
 
 📧 Email: reachmeatrish@gmail.com
 
-🌐 Personal Website
+🌐 Personal Website: 
 
-✍️ Medium: https://medium.com/@kaushikrishabh
-
-🔥 I'm actively seeking new opportunities and challenges in frontend development, especially in the React ecosystem. If you believe my experience could benefit your team, feel free to reach out! Let's build amazing things together. 🚀
+🔥 I'm actively seeking new opportunities and challenges in web development, especially in the javascript ecosystem. If you believe my experience could benefit your team, feel free to reach out! Let's build amazing things together. 🚀
 
 
 ⭐️ From @KaushikRishabh
