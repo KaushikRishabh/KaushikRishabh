@@ -52,7 +52,7 @@ A Twitter-like social media application replicated using React and Next.js. The 
 A task manager application built with Next.js. This project features real-time data synchronization, user authentication, and schedule events like we do in google calender, calendly, and microsoft teams, efficiently. All CRUD operations are there, and UI and backend work is in progress.
 
 ## 🌟 Accomplishments
-🪙 Made an ERC-20 token, and took it to 800MC mcap and never rugged it. As a result, I gained a massive supportive community (contact me if you want to know more). Made some other successful ERC-20 tokens (also never rugged)
+🪙 Made an ERC-20 token, and took it to $800K MC mcap and never rugged it. As a result, I gained a massive supportive community (contact me if you want to know more). Made some other successful ERC-20 tokens (also never rugged)
 
 🏆 Made an image processing mobile app that got over 80k downloads
 
