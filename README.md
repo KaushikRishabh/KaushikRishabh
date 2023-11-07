@@ -26,6 +26,8 @@ I'm a highly experienced frontend developer specializing in React.js with over 5
 ![CI/CD](https://img.shields.io/badge/-CI/CD-F05032?logo=cicd&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge)
+![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?logo=amazonec2&logoColor=white&style=for-the-badge)
+
 
 ### Backend
 
