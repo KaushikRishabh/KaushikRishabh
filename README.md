@@ -62,7 +62,7 @@ A task manager application built with Next.js. This project features real-time d
 
 📖 Authored a paper on "Reviewing the Methods of Predicting Protein Secondary Structure" in Internation Journal of Computer Applications [https://www.ijcaonline.org/proceedings/nsftice2015/number1/25612-1541]
 
-📞 Get in touch:
+📞 Get in touch: +91-7982154780
 
 💼 LinkedIn: https://www.linkedin.com/in/rishabh-kaushik-4206531b8/
 
