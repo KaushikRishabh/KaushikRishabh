@@ -44,7 +44,7 @@ An advanced e-commerce store built with React, Redux, and TypeScript. The applic
 ### 🎥 [YouTube Clone](https://github.com/KaushikRishabh/youtube-clone-react) (https://youtube-clone-react-sandy.vercel.app/)
 A dynamic YouTube clone built with React and styled-components. This project emulates key features of the popular video-sharing website, including a home feed, video search, and viewing capabilities. The clone focuses on creating a user-friendly experience that mirrors the original site with optimized performance and responsive design.
 
-### 🐦 [Twitter Clone](https://github.com/KaushikRishabh/twit-x-clone) (https://vercel.com/kaushikrishabh/twit-x-clone)
+### 🐦 [Twitter Clone](https://github.com/KaushikRishabh/twit-x-clone) (https://twit-x-clone.vercel.app/)
 A Twitter-like social media application replicated using React and Next.js. The clone captures the essence of Twitter with functionalities such as tweeting, retweets, likes, and a real-time feed. It showcases a sleek user interface, authentication flows, and interactive elements to provide an authentic microblogging platform experience.
 
 
