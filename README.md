@@ -68,7 +68,7 @@ A task manager application built with Next.js. This project features real-time d
 
 📧 Email: reachmeatrish@gmail.com
 
-🌐 Personal Website: 
+🌐 Personal Website: https://www.detaxx.com/
 
 🔥 I'm actively seeking new opportunities and challenges in web development, especially in the javascript ecosystem. If you believe my experience could benefit your team, feel free to reach out! Let's build amazing things together. 🚀
 
