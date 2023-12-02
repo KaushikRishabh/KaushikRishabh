@@ -58,7 +58,7 @@ A task manager application built with Next.js. This project features real-time d
 
 💼 Successfully mentored and led a team of 3 frontend developers, increasing overall productivity by 20% as a Frontend Team Lead.
 
-📖 Authored a paper on "Image Steganography Using Improved Lsb Method" in Internation Journal For Science And Advance Research In Technology; IJAR22281
+📖 Authored a paper on "Image Steganography Using Improved Lsb Method" in Internation Journal For Science And Advance Research In Technology; IJAR22281 [https://www.journalijar.com/article/22554/image-steganography-using-improved-lsb-algorithm.-/]
 
 📖 Authored a paper on "Reviewing the Methods of Predicting Protein Secondary Structure" in Internation Journal of Computer Applications [https://www.ijcaonline.org/proceedings/nsftice2015/number1/25612-1541]
 
