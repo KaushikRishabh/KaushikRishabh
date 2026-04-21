@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Rishabh Kaushik - A Senior Frontend Developer
 
-I'm a highly experienced frontend developer specializing in React.js with over 5 years of experience. I'm passionate about building highly scalable, maintainable, and performant web applications. I have a strong focus on clean code, best practices, and a knack for turning complex problems into simple, elegant solutions. 🚀
+I'm a highly experienced frontend developer specializing in React.js with over 8 years of experience. I'm passionate about building highly scalable, maintainable, and performant web applications. I have a strong focus on clean code, best practices, and a knack for turning complex problems into simple, elegant solutions. 🚀
 
 ## 🛠️ Technologies & Tools
 
@@ -38,25 +38,17 @@ I'm a highly experienced frontend developer specializing in React.js with over 5
 
 ## 📚 Featured Projects
 
-### 🔍 [React E-commerce Store](https://github.com/KaushikRishabh/shoply)(https://shoply-lime.vercel.app/)
-An advanced e-commerce store built with React, Redux, and TypeScript. The application showcases best practices in scalable architecture, performance optimization, and state management. Features include authentication, shopping cart functionality, product search, and pagination.
-
-### 🎥 [YouTube Clone](https://github.com/KaushikRishabh/youtube-clone-react) (https://youtube-clone-react-sandy.vercel.app/)
-A dynamic YouTube clone built with React and styled-components. This project emulates key features of the popular video-sharing website, including a home feed, video search, and viewing capabilities. The clone focuses on creating a user-friendly experience that mirrors the original site with optimized performance and responsive design.
-
-### 🐦 [Twitter Clone](https://github.com/KaushikRishabh/twit-x-clone) (https://twit-x-clone.vercel.app/)
-A Twitter-like social media application replicated using React and Next.js. The clone captures the essence of Twitter with functionalities such as tweeting, retweets, likes, and a real-time feed. It showcases a sleek user interface, authentication flows, and interactive elements to provide an authentic microblogging platform experience.
-
+### 🎯 [Karpathy-Inspired Codex Guidelines](https://github.com/KaushikRishabh/codex-karpathy-guidelines)
+Codex-native adaptation of Karpathy-inspired LLM coding guidelines, with AGENTS.md rules, Codex skills, and focused reference examples.
+Exploring better ways to work with coding agents: smaller diffs, clearer goals, better verification.
 
 ### 🎯 [Event Calender App](https://github.com/KaushikRishabh/calendler-clone)
-A task manager application built with Next.js. This project features real-time data synchronization, user authentication, and schedule events like we do in google calender, calendly, and microsoft teams, efficiently. All CRUD operations are there, and UI and backend work is in progress.
+A task manager application built from scratch with Next.js. This project features real-time data synchronization, user authentication, and schedule events like we do in google calender, calendly, and microsoft teams, efficiently. All CRUD operations are there, and UI and backend work is in progress.
 
 ## 🌟 Accomplishments
 🪙 Made an ERC-20 token, and took it to $800K MC mcap and never rugged it. As a result, I gained a massive supportive community (contact me if you want to know more). Made some other successful ERC-20 tokens (also never rugged)
 
 🏆 Made an image processing mobile app that got over 80k downloads
-
-💼 Successfully mentored and led a team of 3 frontend developers, increasing overall productivity by 20% as a Frontend Team Lead.
 
 📖 Authored a paper on "Image Steganography Using Improved Lsb Method" in Internation Journal For Science And Advance Research In Technology; IJAR22281 [https://www.journalijar.com/article/22554/image-steganography-using-improved-lsb-algorithm.-/]
 
@@ -70,7 +62,7 @@ A task manager application built with Next.js. This project features real-time d
 
 🌐 Personal Website: https://www.detaxx.com/
 
-🔥 I'm actively seeking new opportunities and challenges in web development, especially in the javascript ecosystem. If you believe my experience could benefit your team, feel free to reach out! Let's build amazing things together. 🚀
+🔥 I'm actively seeking new opportunities and challenges in web and mobile development, especially in the javascript ecosystem. If you believe my experience could benefit your team, feel free to reach out! Let's build amazing things together. 🚀
 
 
 ⭐️ From @KaushikRishabh
