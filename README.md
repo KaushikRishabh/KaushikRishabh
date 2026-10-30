@@ -1,6 +1,6 @@
-# 👋 Hey there! I'm Rishabh Kaushik - A Senior Frontend Developer
+# 👋 Hey there! I'm Rishabh Kaushik - A Full Stack Engineer
 
-I'm a highly experienced frontend developer specializing in React.js with over 8 years of experience. I'm passionate about building highly scalable, maintainable, and performant web applications. I have a strong focus on clean code, best practices, and a knack for turning complex problems into simple, elegant solutions. 🚀
+I'm a full stack engineer with over 8 years of experience, specializing in React.js and building reliable backend services and thoughtful interfaces. I'm passionate about building highly scalable, maintainable, and performant web applications. I have a strong focus on clean code, best practices, and a knack for turning complex problems into simple, elegant solutions. 🚀
 
 ## 🛠️ Technologies & Tools
 
@@ -36,14 +36,31 @@ I'm a highly experienced frontend developer specializing in React.js with over 8
 ![Next.js Backend](https://img.shields.io/badge/-Next.js_Backend-000000?logo=next.js&logoColor=white&style=for-the-badge)
 
 
-## 📚 Featured Projects
+## 📚 Projects
 
-### 🎯 [Karpathy-Inspired Codex Guidelines](https://github.com/KaushikRishabh/codex-karpathy-guidelines)
-Codex-native adaptation of Karpathy-inspired LLM coding guidelines, with AGENTS.md rules, Codex skills, and focused reference examples.
-Exploring better ways to work with coding agents: smaller diffs, clearer goals, better verification.
+Explore my work at [my portfolio](https://kaushikrishabh.github.io/personal-portfolio/).
 
-### 🎯 [Event Calender App](https://github.com/KaushikRishabh/calendler-clone)
-A task manager application built from scratch with Next.js. This project features real-time data synchronization, user authentication, and schedule events like we do in google calender, calendly, and microsoft teams, efficiently. All CRUD operations are there, and UI and backend work is in progress.
+### Personal tools
+
+- **Jobly — Personal tool:** A job-search automation toolkit that collects, ranks and tracks opportunities across multiple hiring platforms. Built with Node.js, Playwright and Express.
+
+### Web projects and experiments
+
+- **[Twit-X-Clone](https://github.com/KaushikRishabh/twit-x-clone):** A social interface experiment built with Next.js and TypeScript.
+- **[YouTube Clone React](https://github.com/KaushikRishabh/youtube-clone-react):** Exploring the familiar patterns of a video discovery interface.
+- **[Shoply](https://github.com/KaushikRishabh/shoply):** An e-commerce store and marketplace for buying and selling products.
+- **[Calendler Clone](https://github.com/KaushikRishabh/calendler-clone) — Prototype / in development:** A React and Vite calendar prototype with week navigation, time slots, and event forms. Backend integration remains in progress.
+- **[Promodoro](https://github.com/KaushikRishabh/promodoro):** A focused Pomodoro timer built with React and JavaScript.
+
+### Developer tools
+
+- **[React Text to PNG](https://github.com/KaushikRishabh/react-text-to-png):** A browser-based React utility for styling text, adjusting image dimensions and downloading the result as a PNG. Built with JavaScript and html2canvas.
+- **[Karpathy-Inspired Codex Guidelines](https://github.com/KaushikRishabh/codex-karpathy-guidelines):** A Codex-focused adaptation of Karpathy-inspired coding guidelines, packaged as reusable agent instructions, skills and practical examples. Exploring smaller diffs, clearer goals and better verification.
+
+### Coming soon
+
+- **PlaceMe — In development:** AI-assisted photo compositing that places your own photos into new scenes, with tools for placement and image refinement.
+- **Hushfind — In development:** A native file explorer and search app built with Swift and SwiftUI, designed for private, offline use.
 
 ## 🌟 Accomplishments
 🪙 Made an ERC-20 token, and took it to $800K MC mcap and never rugged it. As a result, I gained a massive supportive community (contact me if you want to know more). Made some other successful ERC-20 tokens (also never rugged)
@@ -60,7 +77,7 @@ A task manager application built from scratch with Next.js. This project feature
 
 📧 Email: reachmeatrish@gmail.com
 
-🌐 Personal Website: https://www.detaxx.com/
+🌐 Personal Website: https://kaushikrishabh.github.io/personal-portfolio/
 
 🔥 I'm actively seeking new opportunities and challenges in web and mobile development, especially in the javascript ecosystem. If you believe my experience could benefit your team, feel free to reach out! Let's build amazing things together. 🚀
 
