@@ -63,9 +63,8 @@ Explore my work at [my portfolio](https://kaushikrishabh.github.io/personal-port
 - **Hushfind — In development:** A native file explorer and search app built with Swift and SwiftUI, designed for private, offline use.
 
 ## 🌟 Accomplishments
-🪙 Made an ERC-20 token, and took it to $800K MC mcap and never rugged it. As a result, I gained a massive supportive community (contact me if you want to know more). Made some other successful ERC-20 tokens (also never rugged)
 
-🏆 Made an image processing mobile app that got over 80k downloads
+🏆 Made an photo editing mobile app that got over 80k downloads
 
 📖 Authored a paper on "Image Steganography Using Improved Lsb Method" in Internation Journal For Science And Advance Research In Technology; IJAR22281 [https://www.journalijar.com/article/22554/image-steganography-using-improved-lsb-algorithm.-/]
 
