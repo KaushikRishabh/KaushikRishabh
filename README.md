@@ -4,37 +4,12 @@ I'm a full stack engineer with over 8 years of experience, specializing in React
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![Zustand](https://img.shields.io/badge/-Zustand-CB3837?logo=zustand&logoColor=white&style=for-the-badge)
-![Context API](https://img.shields.io/badge/-Context_API-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![tRPC](https://img.shields.io/badge/-tRPC-000000?logo=trpc&logoColor=white&style=for-the-badge)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge)
-![Zod](https://img.shields.io/badge/-Zod-276DC3?logo=zod&logoColor=white&style=for-the-badge)
-![Prisma](https://img.shields.io/badge/-Prisma-3982CE?logo=prisma&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![Clerk](https://img.shields.io/badge/-Clerk-21A0A0?logo=clerk&logoColor=white&style=for-the-badge)
-![Upstash](https://img.shields.io/badge/-Upstash-FF4785?logo=upstash&logoColor=white&style=for-the-badge)
-![T3 Stack](https://img.shields.io/badge/-T3_Stack-000000?logo=t3&logoColor=white&style=for-the-badge)
-
-### Deployment
-
-![CI/CD](https://img.shields.io/badge/-CI/CD-F05032?logo=cicd&logoColor=white&style=for-the-badge)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge)
-![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?logo=amazonec2&logoColor=white&style=for-the-badge)
-
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![Next.js Backend](https://img.shields.io/badge/-Next.js_Backend-000000?logo=next.js&logoColor=white&style=for-the-badge)
-
+- **Backend and APIs:** Node.js, Express.js, TypeScript, Python, FastAPI, REST, GraphQL, OpenAPI
+- **Databases and queues:** PostgreSQL, MongoDB, Redis, BullMQ, SQL
+- **AI and LLMs:** Retrieval-augmented generation (RAG), embeddings, LLM APIs, evaluation
+- **Agentic AI-assisted development:** IBM Bob, Claude and Codex for implementation, debugging and testing, with human review
+- **Testing and DevOps:** Jest, pytest, Docker, Jenkins, GitHub Actions, OpenTelemetry
+- **Frontend:** React, JavaScript, Angular, Redux, React Query
 
 ## 📚 Projects
 
